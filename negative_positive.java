@@ -9,7 +9,7 @@ import java.util.*;
  * Last Update: 10/07/2024
  */
 
-public class negpos {
+public class negative_positive {
   public static void main(String[] args) {
     try (Scanner sc = new Scanner(System.in)) {
 

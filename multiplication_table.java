@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class mul_table {
+public class multiplication_table {
   public static void main(String[] args) {
     try (Scanner sc = new Scanner(System.in)) {
       System.out.print("Enter a number: ");

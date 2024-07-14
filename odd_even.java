@@ -5,7 +5,7 @@
  * Last Update: 10/07/2024
  */
 
-public class ternary {
+public class odd_even {
   public static void main(String[] args) {
     int x = 12;
     String type = (x%2 == 0) ? "Even" : "Odd";

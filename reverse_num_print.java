@@ -5,7 +5,7 @@
  * Last Update: 10/07/2024
  */
 
-public class reverse_number {
+public class reverse_num_print {
   public static void main(String[] args) {
     int n = 10899;
     int temp = 0;
